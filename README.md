@@ -1,5 +1,5 @@
 # WIJDANI - نظام السجلات الطبية الإلكترونية
-##achoices الشبكة الطبية الموحدة للعيادات في مصر
+Wijdani - Egyptian Medical Records & Clinic Management System
 
 ---
 
